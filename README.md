@@ -62,6 +62,10 @@ essentialsplus.tp
 
 Pull requests and feature suggestions are welcome! Please open an issue to discuss major changes before submitting PRs.
 
+The original plugin is from 
+https://essentialsx.net/
+this is a fork
+
 📄 License
 
 This project is licensed under the MIT License
